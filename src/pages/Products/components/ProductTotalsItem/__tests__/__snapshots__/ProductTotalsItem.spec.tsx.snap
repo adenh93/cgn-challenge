@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTotals Component it matches the snapshot 1`] = `
+<h6
+  className="MuiTypography-root makeStyles-root-1 MuiTypography-body1"
+>
+  Total
+  :
+   
+  <small
+    className="makeStyles-small-2"
+  >
+    $
+    300.00
+  </small>
+</h6>
+`;
